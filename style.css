@@ -221,7 +221,7 @@ html{
 .keypoint .key_container .key_content li{
     margin: 10px;
     padding: 10px;
-    border-left: 2px solid orange;
+    border-left: 2px solid rgb(185, 158, 109);
     color: black;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
